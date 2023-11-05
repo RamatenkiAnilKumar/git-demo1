@@ -8,6 +8,10 @@ public class MyTest {
 			System.out.println("My NAme IS "+name);
 
 		}
+	public void addMethod(){
+
+		System.out.println("My Second MEthod:");
+	}
 	
 	
 	public static void main(String[] args) {
