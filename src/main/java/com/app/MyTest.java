@@ -12,7 +12,11 @@ public class MyTest {
 
 		System.out.println("My Second MEthod:");
 	}
-	
+
+	public void multiply(){
+
+		System.out.println("Multiply Data ");
+	}
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
